@@ -1,5 +1,7 @@
 # Boggle Board
-A game problem 
+A game problem
+
+
 
 >Open <b>boggle_boad.cpp</b> for the working program.
 
@@ -9,3 +11,4 @@ A game problem
 
 >A brief report has been attached with the repo **(report_c++.cpp)**
 
+-**Abhash Kumar Jha**
