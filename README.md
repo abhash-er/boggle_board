@@ -1,4 +1,4 @@
-# boggle_board
+# Boggle Board
 A game problem 
 
 >Open <b>boggle_boad.cpp</b> for the working program.
