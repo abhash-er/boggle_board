@@ -1,6 +1,6 @@
 ## Boggle Board
 
-> This is a game problem solved using graph-based.
+> This is a game problem solved using graph-based algorithm.
 
 #### Instructions
 
