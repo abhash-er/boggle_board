@@ -10,6 +10,6 @@
 
 3. To see more on, how i created suffix trie, see [Suffix Trie](./suffix_trie.cpp)
 
-4. A brief report has been attached with the repo- [Report](./report.pdf)
+4. A brief report has been attached with the repo- [Report](./report_c++.pdf)
 
 5. Soon will update the python program for same.
