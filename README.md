@@ -6,7 +6,7 @@
 
 1. Open <b>boggle_boad.cpp</b> for the working program.
 
-2. I have provided an analysis in [Boggle Board](/.boggle_board_analysis.pdf)
+2. I have provided an analysis in [Boggle Board](./boggle_board_analysis.pdf)
 
 3. To see more on, how i created suffix trie, see [Suffix Trie](./suffix_trie.cpp)
 
